@@ -1,5 +1,14 @@
 # @vanilla-extract/integration
 
+## 6.0.1
+
+### Patch Changes
+
+- [#869](https://github.com/vanilla-extract-css/vanilla-extract/pull/869) [`2d08761`](https://github.com/vanilla-extract-css/vanilla-extract/commit/2d08761598668c0e7066837ccb0be7b4d5637701) Thanks [@mrm007](https://github.com/mrm007)! - Use correct async Babel transform method in integration transform
+
+- Updated dependencies [[`98f8b03`](https://github.com/vanilla-extract-css/vanilla-extract/commit/98f8b0387d661b77705d2cd83ab3095434e1223e)]:
+  - @vanilla-extract/css@1.9.2
+
 ## 6.0.0
 
 ### Major Changes
